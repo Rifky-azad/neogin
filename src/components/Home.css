@@ -1,0 +1,30 @@
+.home__container {
+  height: 350px;
+  width: 300px;
+  display: flex;
+  align-items: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: rgb(31, 81, 83);
+  margin: auto;
+  margin-top: 10%;
+  border-radius: 40px;
+  color: #fff;
+}
+
+.login__container > h1 {
+  color: #fff;
+}
+
+button {
+  margin-left: 10px;
+  background-color: #fff;
+  color: rgb(31, 81, 83);
+  border: none;
+  border-radius: 10px;
+}
+
+button:hover {
+  transform: scale(1.2);
+}
